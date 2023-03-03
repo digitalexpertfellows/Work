@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5bc400-2f05-4888-bfd5-38293a1c54cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/SkinCareDjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/SkinCareDjangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/SkinCareDjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/SkinCareDjangoProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/store/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/store/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/store/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/store/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/store/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/store/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/store/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/store/templates/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/store/templates/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/store/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SkinCareDjangoProject/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/SkinCareDjangoProject/store/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="cd5bc400-2f05-4888-bfd5-38293a1c54cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/mihai/GitRepo/Actual Projects/SkinCare"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mihai/GitRepo/Actual Projects/SkinCare&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/SkinCareDjangoProject/static/images" />
